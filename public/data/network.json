@@ -1,0 +1,7 @@
+[
+	{
+		"image": "/base.png",
+		"name": "Base Testnet",
+		"contract_url": "https://sepolia.basescan.org/address/0x11274e325a2c924a744b35aa5fefca314e4c59cd"
+	}
+]
